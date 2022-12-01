@@ -6,14 +6,17 @@ background-color: hsl(225, 100%, 94%);
 
 }
 
-p{
+.P1{
+font-family: sans-serif;
+font-weight: 700;
 
-font-size: 16px;
-font-family:sans-serif;
-color: hsl(224, 23%, 55%);
-margin-left: 80px;
-margin-right: 80px;
-margin-bottom: 40px;
+}
+
+.P2{
+
+  font-family: sans-serif;
+  font-weight: 400;
+  color: hsl(224, 23%, 55%);
 }
 
 .main-container{
