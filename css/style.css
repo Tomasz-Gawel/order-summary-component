@@ -1,0 +1,80 @@
+@import "(https://fonts.google.com/specimen/Red+Hat+Display)";
+
+body{
+background-color: hsl(225, 100%, 94%);
+
+
+}
+
+p{
+
+font-size: 16px;
+font-family:sans-serif;
+color: hsl(224, 23%, 55%);
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom: 40px;
+}
+
+.main-container{
+display:flex;
+align-items: center;
+flex-direction: column;
+text-align: center;
+width: 450px;
+height: 600px;
+margin-top: 200px;
+margin-left: auto;
+margin-right: auto;
+background-color: hsl(225, 100%, 98%);
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.bottom-container{
+
+  width: 450px;
+}
+.music
+{
+display: flex;
+justify-content:center;
+
+width: 350px;
+background-color: hsl(225, 100%, 94%);
+border-radius: 20px;
+flex-direction:row;
+align-items: center;
+text-align: center;
+margin: auto;
+}
+
+
+.change{
+margin-left: 50px;
+
+}
+.payment{
+width: 200px;
+margin-top: 40px;
+padding: 10px;
+border-radius: 10px;
+background-color: hsl(245, 75%, 52%);
+ color: white;
+ border-color: hsl(245, 75%, 52%);
+}
+
+.order{
+margin-top: 20px;
+color: hsl(224, 23%, 55%);
+border: none;
+
+}
+
+.hero{
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+}
